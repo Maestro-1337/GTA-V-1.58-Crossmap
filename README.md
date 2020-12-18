@@ -2,7 +2,7 @@
 
 ## Pull Request
 
-* some of them are broken, feel free to add a pull request.
+* feel free to add a pull request.
 
 ## Credits
 
