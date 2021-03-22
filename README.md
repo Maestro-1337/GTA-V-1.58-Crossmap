@@ -8,6 +8,3 @@
 
 * feel free to add a pull request.
 
-## Credits
-
-* **TheDroidgeek**
