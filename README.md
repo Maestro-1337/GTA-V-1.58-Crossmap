@@ -2,7 +2,7 @@
 
 ## Changelogs
 
-* Updated to b2372
+* Updated to b2545
 
 ## Pull Request
 
